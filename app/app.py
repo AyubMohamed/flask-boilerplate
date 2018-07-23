@@ -49,8 +49,7 @@ class TicketSimple(Resource):
 
             ticket.save()
         except Exception as e:
-            print(e)
-            return e, 500
+            return str(e), 500
 
 
 class TicketList(Resource):
