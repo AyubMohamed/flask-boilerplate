@@ -1,3 +1,3 @@
-Add simple unit tests on the Models (Ticket, User, Comment)
-Add integration tests that create tickets and test the get and put endpoints.
-Add API tests that test the api returns the correct response
+- Add simple unit tests on the Models (Ticket, User, Comment)
+- Add integration tests that create tickets and test the get and put endpoints.
+- Add API tests that test the api returns the correct response
